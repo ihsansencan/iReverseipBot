@@ -1,5 +1,4 @@
 # # iReverseipBot
-* * *
 
 Automate processes in batches instead of dealing with one by one.
 
